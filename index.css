@@ -1,5 +1,5 @@
 body {
-    font-family: 'Raleway', serif;
+font-family: 'Raleway';
   text-align: center;
   background-color: #f0f0f0;
   margin: 0;
@@ -81,7 +81,7 @@ button:hover {
 }
 
 #certificateContent {
-  font-family: 'Raleway', serif;
+  font-family: 'Raleway';
   color: #333;
   padding: 20px;
   background-color: #f9f9f9;
@@ -96,11 +96,6 @@ h1, .modal-content h2, .modal-content p {
 
 .close {
   color: #dc7f5f;
-}
-
-/* Adding a fancy border to the certificate content */
-#certificateContent {
-  background: #f9f9f9 url('path/to/your/decorative-border-image.png') center/contain no-repeat;
 }
 
 /* Adjust button styles to fit the theme */
